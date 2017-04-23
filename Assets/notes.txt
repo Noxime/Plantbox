@@ -1,0 +1,15 @@
+Tomatoes
+Cucumbers
+Carrots
+Smol bananas
+Peas
+Radishes
+
+Gameplay
+* Buy seeds
+* Plant them
+* Water them
+* Manage light
+* Sell the plants
+* Convert plants to seeds
+*

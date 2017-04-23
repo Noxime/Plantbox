@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plantbox.Plugins", "plantbox.Plugins.csproj", "{131A571D-1E7C-B873-92BD-BD836F278B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plantbox", "plantbox.csproj", "{1F7221F3-7D33-D2FA-066C-DA14CBCC98FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plantbox.Editor.Plugins", "plantbox.Editor.Plugins.csproj", "{5D77D1D0-949D-A341-D776-209D83A29DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131A571D-1E7C-B873-92BD-BD836F278B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131A571D-1E7C-B873-92BD-BD836F278B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131A571D-1E7C-B873-92BD-BD836F278B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131A571D-1E7C-B873-92BD-BD836F278B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7221F3-7D33-D2FA-066C-DA14CBCC98FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7221F3-7D33-D2FA-066C-DA14CBCC98FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7221F3-7D33-D2FA-066C-DA14CBCC98FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7221F3-7D33-D2FA-066C-DA14CBCC98FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D77D1D0-949D-A341-D776-209D83A29DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D77D1D0-949D-A341-D776-209D83A29DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D77D1D0-949D-A341-D776-209D83A29DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D77D1D0-949D-A341-D776-209D83A29DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
